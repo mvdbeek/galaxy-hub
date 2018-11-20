@@ -35,7 +35,7 @@ Martinstor, here is the [GoogleMap link](https://goo.gl/maps/r9AZgu1YKbK2).
 | Time |  Speaker  |  Title  |  Slides  | 
 | ---- | -------- | ------ | ------- | 
 | 9:45 - 10:00 |  ARRIVAL  |   |   |
-| 10:00 - 10:20 |  [Hans-Rudolf Hotz](/src/people/hansrudolf-hotz/index.md) ([FMI](http://www.fmi.ch/)) |  Welcome and short introduction into the Galaxy Project  |  [slides](https://github.com/galaxyproject/galaxy-hub/blob/master/src/events/2018-europe-dev/EGD_SG2018T_intro_Monday.pdf)  |
+| 10:00 - 10:20 |  [Hans-Rudolf Hotz](/src/people/hansrudolf-hotz/index.md) ([FMI](http://www.fmi.ch/)) |  Welcome and short introduction into the Galaxy Project  |   |
 | 10:20 - 10:50 |  [Björn Grüning](/src/people/bjoern-gruening/index.md) ([University of Freiburg](http://www.uni-freiburg.de/)) |  [State of the Galaxy Project - priorities, plans, and community (from a European perspective)](https://docs.google.com/presentation/d/1cqFtHus4TIFsD56tBSGvgdICx56AVnzwTWuJI1z4rE4/edit?usp=sharing)  |   | 
 | 10:50 - 11:20 |  Coffee Break  |   |   |
 | 11:20 - 11:45 |  Matthias Bernt ([UFZ](http://www.ufz.de/)) |  *Establishing a Galaxy Server and building a Galaxy User Community from scratch. A field report from the UFZ Leipzig*  |   |
@@ -59,7 +59,7 @@ Martinstor, here is the [GoogleMap link](https://goo.gl/maps/r9AZgu1YKbK2).
 | Time |  Speaker  |  Title  |  Slides  | 
 | ---- | -------- | ------ | ------- | 
 | 9:30 |   [Hans-Rudolf Hotz](/src/people/hansrudolf-hotz/index.md) ([FMI](http://www.fmi.ch/)) | Welcome and organization for the day  |   |
-| 9:30 - 09:55 |  Marius van den Beek ([Institut Curie](https://institut-curie.org/)), John Chilton ([Penn State](http://www.bx.psu.edu/)) |  [*Travelling with warp-speed, an update on Galaxy workflows*](https://galaxyproject.org/events/2018-europe-dev/abstracts/#marius-van-den-beek-john-chilton) |   |
+| 9:30 - 09:55 |  Marius van den Beek ([Institut Curie](https://institut-curie.org/)), John Chilton ([Penn State](http://www.bx.psu.edu/)) |  [*Travelling with warp-speed, an update on Galaxy workflows*](https://galaxyproject.org/events/2018-europe-dev/abstracts/#marius-van-den-beek-john-chilton) | https://docs.google.com/presentation/d/1iGCKLNI9gwfpNL__yADhK97ucLtZ1Cy62_EJGNPlKPI/edit#slide=id.p  |
 | 09:55 - 10:20 |  Nicola Soranzo ([Earlham Institute](http://www.earlham.ac.uk/)) | *Beta Python 3 support for Galaxy in release 18.09, at last!*  | https://docs.google.com/presentation/d/1txmwpDK3CG7eCsJXPOpHaNuGEzJ6-hBX6Iq-HJZb0pY/edit?usp=sharing  | 
 | 10:20 - 10:45 |  Musumba Awori ([Goethe University of Frankfurt](http://www.goethe-university-frankfurt.de))  |  *Draft genome of a bacterium (Xenorhabdus griffiniae XN45) isolated from Kenyan Steinernema nematodes reveals its potential synthesis  of a  spectrum  of specialised metabolites*  |    |
 | 10:45 - 11:00 |  Coffee Break  |   |   |
